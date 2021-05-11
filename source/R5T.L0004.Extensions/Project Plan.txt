@@ -1,0 +1,4 @@
+R5T.L0004.Extensions - Extensions and custom functionality for the AWSSDK.Core library.
+
+Goals
+
